@@ -7,6 +7,6 @@ Preprocessing: Includes merging datasets, handling categorical variables, imputi
 Modeling: Logistic Regression used for prediction after training on historical data.
 Evaluation: Includes accuracy assessment and potential areas for model improvement.
 
-Future Work
+Future Work:
 Explore more complex models like Random Forests and Gradient Boosting Machines for potential accuracy improvements.
 Implement additional feature engineering techniques to capture more dynamics of the race outcomes, such as DNF rates, circuit types, and weather.
